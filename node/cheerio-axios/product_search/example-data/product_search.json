@@ -1,0 +1,380 @@
+{
+  "breadcrumbs": [],
+  "pagination": null,
+  "products": [
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 2,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Quechua Kids’ NH100 Velcro Hiking Shoes",
+          "url": "https://www.decathlon.com/cdn/shop/files/CHAUSSURESKIDGARCONMH100PE24-8853302-001---Expireson22-09-2033.jpg?v=1745434978&width=533"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Velcro Hiking Shoes",
+      "preDiscountPrice": 0,
+      "price": 24.99,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-kids-velcro-hiking-shoes-nh100-black-24-to-34-313049?_pos=1&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 1,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*strawberry-pink-8576133*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8576133-product_image-p1869861.jpg?v=1745451152&width=533"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Velcro Hiking Shoes",
+      "preDiscountPrice": 22.99,
+      "price": 14,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-mh100-low-rip-tab-hiking-boots-kids-size-11c-to-3-313072?_pos=2&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 739,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*navy-blue-8600278*}",
+          "url": "https://www.decathlon.com/cdn/shop/products/8600278-product_image-1869856.jpg?v=1745451797&width=533"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Lace-Up Hiking Shoes",
+      "preDiscountPrice": 22.99,
+      "price": 14,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-mh100-low-hiking-boots-kids-313073?_pos=3&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.7,
+        "reviewCount": 240,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*smoked-black-8740035*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8740035-product_image-p2904732.jpg?v=1759159682&width=533"
+        }
+      ],
+      "name": "Quechua Kids' NH100 Warm Waterproof Snow Boots",
+      "preDiscountPrice": 39.99,
+      "price": 28,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-kids-snow-boots-uk-sizes-jnr-7-45-sh100-warm-black-339525-fw25?_pos=4&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.7,
+        "reviewCount": 1,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*smoked-black-8853305*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8853305-product_image-p2578640.jpg?v=1745361262&width=533"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Lace-Up Hiking Shoes",
+      "preDiscountPrice": 0,
+      "price": 22.99,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-childrens-lace-up-hiking-boots-nh100-black-35-38-313055?_pos=5&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.7,
+        "reviewCount": 170,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*verdigris-8881169*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8881169-product_image-p2823567.jpg?v=1746484229&width=533"
+        }
+      ],
+      "name": "Quechua Kids’ Hike 500 Crew Hiking Socks 2-Pack",
+      "preDiscountPrice": 0,
+      "price": 14.99,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-junior-high-hiking-socks-hike-500-green-354180?_pos=6&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 139,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*pale-gray-8881152*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8881152-product_image-p2823553.jpg?v=1749836113&width=533"
+        }
+      ],
+      "name": "Quechua Kids' Hike 100 Hiking Socks 2-Pack",
+      "preDiscountPrice": 0,
+      "price": 9.99,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-junior-hiking-socks-hike-100-grey-354170?_pos=7&_sid=501ae4019&_ss=r",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 0,
+        "reviewCount": 0,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*asphalt-blue-8858286*}",
+          "url": "https://cdn.shopify.com/s/files/1/1330/6287/files/8858286-product_image-p2688048_dea6fdbb-43f3-4b78-8e1b-94ab328aec0e_400x400.jpg?v=1755033808"
+        }
+      ],
+      "name": "Simond Men's MT100 Hooded Down Puffer Jacket",
+      "preDiscountPrice": 0,
+      "price": 119,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/simond-mt100-hooded-down-puffer-jacket-167571?variant=41320423063614&_rdiscovery-handle=simond-mt100-hooded-down-puffer-jacket-167571&_rdiscovery-widget=221671",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 0,
+        "reviewCount": 0,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*asphalt-blue-8858267*}",
+          "url": "https://cdn.shopify.com/s/files/1/1330/6287/files/8858267-product_image-p2688040_15b806ce-a1f3-4bef-abfb-db3d0c705ad6_400x400.jpg?v=1757454981"
+        }
+      ],
+      "name": "Simond Women's MT100 Hooded Down Puffer Jacket",
+      "preDiscountPrice": 0,
+      "price": 119,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/simond-trek-100-23-f-down-packable-puffer-backpacking-jacket-167572?variant=41255240925246&_rdiscovery-handle=simond-trek-100-23-f-down-packable-puffer-backpacking-jacket-167572&_rdiscovery-widget=221671",
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 0,
+        "reviewCount": 0,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "category": null,
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*unspecified-8916867*}",
+          "url": "https://cdn.shopify.com/s/files/1/1330/6287/files/8916867-product_image-p2837031_400x400.jpg?v=1746640920"
+        }
+      ],
+      "name": "Simond Adult MT500 Merino Wool Beanie",
+      "preDiscountPrice": 0,
+      "price": 17,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/forclaz-adult-mt500-merino-wool-hat-302969?variant=41737089155134&_rdiscovery-handle=forclaz-adult-mt500-merino-wool-hat-302969&_rdiscovery-widget=221671",
+      "videos": []
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": [
+      {
+        "currency": "USD",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1330/6287/files/8858286-product_image-p2688048_dea6fdbb-43f3-4b78-8e1b-94ab328aec0e_400x400.jpg?v=1755033808",
+        "name": "Simond Men's MT100 Hooded Down Puffer Jacket",
+        "price": 119,
+        "url": "https://www.decathlon.com/products/simond-mt100-hooded-down-puffer-jacket-167571?variant=41320423063614&_rdiscovery-handle=simond-mt100-hooded-down-puffer-jacket-167571&_rdiscovery-widget=221671"
+      },
+      {
+        "currency": "USD",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1330/6287/files/8858267-product_image-p2688040_15b806ce-a1f3-4bef-abfb-db3d0c705ad6_400x400.jpg?v=1757454981",
+        "name": "Simond Women's MT100 Hooded Down Puffer Jacket",
+        "price": 119,
+        "url": "https://www.decathlon.com/products/simond-trek-100-23-f-down-packable-puffer-backpacking-jacket-167572?variant=41255240925246&_rdiscovery-handle=simond-trek-100-23-f-down-packable-puffer-backpacking-jacket-167572&_rdiscovery-widget=221671"
+      },
+      {
+        "currency": "USD",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1330/6287/files/8916867-product_image-p2837031_400x400.jpg?v=1746640920",
+        "name": "Simond Adult MT500 Merino Wool Beanie",
+        "price": 17,
+        "url": "https://www.decathlon.com/products/forclaz-adult-mt500-merino-wool-hat-302969?variant=41737089155134&_rdiscovery-handle=forclaz-adult-mt500-merino-wool-hat-302969&_rdiscovery-widget=221671"
+      }
+    ]
+  },
+  "relatedSearches": [],
+  "searchMetadata": {
+    "query": "kids shoes",
+    "resultsDisplayed": 10,
+    "searchType": "keyword",
+    "searchUrl": "https://www.decathlon.com/search?q=kids+shoes",
+    "totalResults": 7
+  },
+  "sponsoredProducts": []
+}

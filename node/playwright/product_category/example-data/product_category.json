@@ -1,0 +1,1032 @@
+{
+  "appliedFilters": [],
+  "bannerImage": "http://www.decathlon.com/cdn/shop/collections/24-App-Collections-05.jpg?v=1705589373",
+  "breadcrumbs": [
+    {
+      "name": "Bags & Backpacks",
+      "url": ""
+    }
+  ],
+  "categoryId": "12110",
+  "categoryName": "Laptop Backpacks",
+  "categoryUrl": "https://www.decathlon.com/collections/lifestyle-packs?collection=12110",
+  "description": "Shop our selection of laptop backpacks for men & women designed by Decathlon. Enjoy free U.S. standard shipping on orders over $49!",
+  "jsonLD": null,
+  "pagination": {
+    "currentPage": null,
+    "nextPageUrl": null,
+    "prevPageUrl": null,
+    "resultsPerPage": null,
+    "totalPages": null,
+    "totalResults": 5
+  },
+  "products": [
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8844302-product_image-p2629947.jpg?v=1709138155",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 16 L Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 44.99,
+      "productId": "6955909873726",
+      "rating": 4.8,
+      "reviewCount": 3427,
+      "url": "https://www.decathlon.com/products/quechua-nh-escape-500-16-l-hiking-backpack-334520"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8920375-product_image-p2837411.jpg?v=1743786775",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 16L+4 Rolltop Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 49.99,
+      "productId": "7773899980862",
+      "rating": 4.8,
+      "reviewCount": 523,
+      "url": "https://www.decathlon.com/products/quechua-escape-rolltop-16-l4-hiking-backpack-blue-358339"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8649339-product_image-p2204688.jpg?v=1714476034",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 23 L Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 54.99,
+      "productId": "6955910168638",
+      "rating": 4.8,
+      "reviewCount": 6248,
+      "url": "https://www.decathlon.com/products/quechua-nh-escape-500-23l-hiking-backpack-334344"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8736382-product_image-p2183126.jpg?v=1718731497",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape Rolltop 23 L Backpack",
+      "preDiscountPrice": null,
+      "price": 59.99,
+      "productId": "6955912364094",
+      "rating": 4.8,
+      "reviewCount": 1718,
+      "url": "https://www.decathlon.com/products/hiking-backpack-23l-nh-escape-500-rolltop-334561"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8649351-product_image-p2192201.jpg?v=1714475988",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 32 L Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 69.99,
+      "productId": "6910579146814",
+      "rating": 4.7,
+      "reviewCount": 3471,
+      "url": "https://www.decathlon.com/products/hiking-backpack-32l-nh-escape-500-334334"
+    }
+  ],
+  "subcategories": [
+    {
+      "name": "All",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/shop-all"
+    },
+    {
+      "name": "Sports",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/shop-all"
+    },
+    {
+      "name": "New Arrivals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/new-arrivals"
+    },
+    {
+      "name": "New Hike & Camp",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/new-arrivals-hike-camp"
+    },
+    {
+      "name": "New Running",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/new-arrivals-running"
+    },
+    {
+      "name": "New Bike & Cycling",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/new-arrivals-bike-cycling"
+    },
+    {
+      "name": "Hiking & Backpacking",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camp-hike"
+    },
+    {
+      "name": "Bags & Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/backpacks-bags"
+    },
+    {
+      "name": "Laptop Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/lifestyle-packs"
+    },
+    {
+      "name": "Daypacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/daypacks"
+    },
+    {
+      "name": "Hiking Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/all-hiking-backpacks"
+    },
+    {
+      "name": "Backpacking Packs",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/backpacking-packs"
+    },
+    {
+      "name": "Travel Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/travel-packs"
+    },
+    {
+      "name": "Duffel Bags",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/duffel-bags"
+    },
+    {
+      "name": "Mountaineering Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mountaineering-backpacks"
+    },
+    {
+      "name": "Backpack Accessories",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/backpack-accessories"
+    },
+    {
+      "name": "Men's Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-backpacks-and-bags"
+    },
+    {
+      "name": "Women's Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-backpacks-and-bags"
+    },
+    {
+      "name": "Footwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/footwear"
+    },
+    {
+      "name": "Shoes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hike-camp-shoes"
+    },
+    {
+      "name": "Boots",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-boots"
+    },
+    {
+      "name": "Socks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-socks"
+    },
+    {
+      "name": "Sandals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-sandals"
+    },
+    {
+      "name": "Kids",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-outdoor-footwear"
+    },
+    {
+      "name": "Snow Boots",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/snow-boots"
+    },
+    {
+      "name": "Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-jackets"
+    },
+    {
+      "name": "Down Jackets & Coats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/down-jackets-vests"
+    },
+    {
+      "name": "Puffer Jackets & Vests",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/synthetic-puffer-jackets-vests"
+    },
+    {
+      "name": "Rain Jackets & Raincoats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/rain-snow-jackets"
+    },
+    {
+      "name": "Winter Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/winter-snow-jackets"
+    },
+    {
+      "name": "Men's Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-jackets"
+    },
+    {
+      "name": "Women's Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-jackets"
+    },
+    {
+      "name": "Clothing",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-clothing"
+    },
+    {
+      "name": "Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-shirts"
+    },
+    {
+      "name": "Pants",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-pants"
+    },
+    {
+      "name": "Shorts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-shorts"
+    },
+    {
+      "name": "Headwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-hats"
+    },
+    {
+      "name": "Merino Wool",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/merino-wool-hiking-clothes"
+    },
+    {
+      "name": "Fleeces & Mid Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-fleeces-mid-layers"
+    },
+    {
+      "name": "Gloves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-gloves"
+    },
+    {
+      "name": "Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/base-layers"
+    },
+    {
+      "name": "Men's Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-base-layers"
+    },
+    {
+      "name": "Women's Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-base-layers"
+    },
+    {
+      "name": "Hiking Poles, Gaiters & Accessories",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-camp-accessories"
+    },
+    {
+      "name": "Camping",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camp-ready-all-your-outdoor-essentials"
+    },
+    {
+      "name": "Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/tents"
+    },
+    {
+      "name": "Camping Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-tents"
+    },
+    {
+      "name": "2-Person Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-tents-2-3-person"
+    },
+    {
+      "name": "3-Person Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/3-person-camping-tents"
+    },
+    {
+      "name": "4 to 6-person Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-tents-4-6-person"
+    },
+    {
+      "name": "Pop Up Camping Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/pop-up-camping-tents"
+    },
+    {
+      "name": "Blackout Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/blackout-tents"
+    },
+    {
+      "name": "Beach Tents",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hike-camp-shelters"
+    },
+    {
+      "name": "Tent Accessories",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/tent-accessories"
+    },
+    {
+      "name": "Sleeping",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/sleeping"
+    },
+    {
+      "name": "Sleeping Bags",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/sleeping-bags"
+    },
+    {
+      "name": "Backpacking Pads",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/backpacking-pads"
+    },
+    {
+      "name": "Camping Mattresses & Cots",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-mattress-cots"
+    },
+    {
+      "name": "Hammocks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hammocks"
+    },
+    {
+      "name": "Pillows",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-pillows"
+    },
+    {
+      "name": "Liners, Accessories & Repair",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/liners-accessories-repair"
+    },
+    {
+      "name": "Camp Kitchen",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kitchen"
+    },
+    {
+      "name": "Cookware",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-cookware"
+    },
+    {
+      "name": "Dinnerware",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-dinnerware"
+    },
+    {
+      "name": "Stoves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/forclaz-mt900-ultralight-backpacking-stove-342126"
+    },
+    {
+      "name": "Camp Shower",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/quechua-10-l-solar-camping-shower-bag-334620"
+    },
+    {
+      "name": "Furniture & Rugs",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camp-furniture"
+    },
+    {
+      "name": "Hydration",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hydration"
+    },
+    {
+      "name": "Lighting",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/lighting"
+    },
+    {
+      "name": "Headlamps",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camp-hike-headlamps"
+    },
+    {
+      "name": "Lanterns",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/camping-lanterns"
+    },
+    {
+      "name": "Repair & Replacement Parts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/outdoor-repair-replacement-parts"
+    },
+    {
+      "name": "Snow & Ski",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/snow-ski"
+    },
+    {
+      "name": "Jackets & Outerwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/jackets-outerwear"
+    },
+    {
+      "name": "Ski Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/ski-jackets"
+    },
+    {
+      "name": "Ski Pants",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/ski-pants"
+    },
+    {
+      "name": "Mid Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-fleeces-mid-layers"
+    },
+    {
+      "name": "Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/base-layers-thermal-underwear"
+    },
+    {
+      "name": "Men's Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-base-layers"
+    },
+    {
+      "name": "Women's Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-base-layers"
+    },
+    {
+      "name": "Accessories",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/ski-beanies-gloves-socks"
+    },
+    {
+      "name": "Gloves & Mittens",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/ski-mittens-gloves"
+    },
+    {
+      "name": "Beanies & Neck Warmers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/beanies-neckwarmers"
+    },
+    {
+      "name": "Snow Hiking Socks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/snow-hiking-socks"
+    },
+    {
+      "name": "Footwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/snow-boots"
+    },
+    {
+      "name": "Running",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running"
+    },
+    {
+      "name": "New",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/new-arrivals-running"
+    },
+    {
+      "name": "Clothing",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running"
+    },
+    {
+      "name": "Tops",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/shirts-tops"
+    },
+    {
+      "name": "Shorts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running-shorts-1"
+    },
+    {
+      "name": "Socks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/socks"
+    },
+    {
+      "name": "Hats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running-hats"
+    },
+    {
+      "name": "Accessories",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running-belts-hydration-vests"
+    },
+    {
+      "name": "Hydration Packs & Belts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running-belts-hydration-vests"
+    },
+    {
+      "name": "Flasks & Reservoirs",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/flasks-reservoirs"
+    },
+    {
+      "name": "Hats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/running-hats"
+    },
+    {
+      "name": "Cycling",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/bike"
+    },
+    {
+      "name": "Bikes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/bikes"
+    },
+    {
+      "name": "Gravel Bikes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/road-gravel-bikes"
+    },
+    {
+      "name": "Road Bikes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/road-bikes"
+    },
+    {
+      "name": "Mountain Bikes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mountain-bikes"
+    },
+    {
+      "name": "Performance Bikes ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/road-bikes"
+    },
+    {
+      "name": "Performance Bikes ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/road-bikes?utm_source=decathlon&utm_medium=referral"
+    },
+    {
+      "name": "Aero Light Bikes ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/aero-light-bikes"
+    },
+    {
+      "name": "Aero Road Bikes ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/aero-road-bikes"
+    },
+    {
+      "name": "Gravel Bikes ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/gravel-bikes"
+    },
+    {
+      "name": "Framesets ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/frame-kits/products/rcr-pro-frame-kit"
+    },
+    {
+      "name": "Home Trainers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/home-trainers"
+    },
+    {
+      "name": "D100 Home Trainer ",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/van-rysel-d100-home-trainer-with-zwift-cog-and-click-355194"
+    },
+    {
+      "name": "D500 Smart Trainer",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/van-rysel-home-trainer-connected-with-zwift-cog-and-click-d500-301243-fw25"
+    },
+    {
+      "name": "D900 RCR Smart Trainer",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/van-rysel-rcr-home-trainer-with-zwift-cog-and-click-347879-fw25"
+    },
+    {
+      "name": "Trainer Mat",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/van-rysel-flanders-turbo-trainer-mat-329739-fw25"
+    },
+    {
+      "name": "Apparel & Accessories ↗",
+      "productCount": null,
+      "url": "https://www.vanryselus.com/collections/apparel-accessories"
+    },
+    {
+      "name": "Apparel ",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/cycling-clothing"
+    },
+    {
+      "name": "Gloves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/cycling-gloves"
+    },
+    {
+      "name": "Socks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/products/van-rysel-900-summer-road-cycling-socks-330704"
+    },
+    {
+      "name": "Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/bikes-cycling-deals"
+    },
+    {
+      "name": "Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/deals"
+    },
+    {
+      "name": "Hike & Camp Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hike-camp-deals"
+    },
+    {
+      "name": "Bikes & Cycling Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/bikes-cycling-deals"
+    },
+    {
+      "name": "Golf Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/golf-clubs"
+    },
+    {
+      "name": "Men",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens"
+    },
+    {
+      "name": "Jackets & Coats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-jackets"
+    },
+    {
+      "name": "Down Jackets & Coats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-down-jackets"
+    },
+    {
+      "name": "Puffer Jackets & Vests",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-synthetic-padded-jackets-vests"
+    },
+    {
+      "name": "Rain Jackets & Raincoats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-rain-snow-jacket"
+    },
+    {
+      "name": "Windbreaker Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-windbreaker-jackets"
+    },
+    {
+      "name": "Winter Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-winter-jackets-coats"
+    },
+    {
+      "name": "Tops",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-tops"
+    },
+    {
+      "name": "Men's Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-shirts-1"
+    },
+    {
+      "name": "T-Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-shirts"
+    },
+    {
+      "name": "Long-sleeved Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-long-sleeved-t-shirts"
+    },
+    {
+      "name": "Men's Fleece & Mid Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-fleeces-mid-layers"
+    },
+    {
+      "name": "Bottoms",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-pants-shorts"
+    },
+    {
+      "name": "Pants",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-pants"
+    },
+    {
+      "name": "Shorts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-shorts"
+    },
+    {
+      "name": "Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-base-layers"
+    },
+    {
+      "name": "Men's Merino Wool",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-merino-wool-apparel"
+    },
+    {
+      "name": "Men's Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-base-layers"
+    },
+    {
+      "name": "Footwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-footwear"
+    },
+    {
+      "name": "Boots",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-hiking-boots"
+    },
+    {
+      "name": "Shoes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-hiking-shoe"
+    },
+    {
+      "name": "Socks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-socks"
+    },
+    {
+      "name": "Sandals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-sandals"
+    },
+    {
+      "name": "Hats & Gloves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-hats-beanies"
+    },
+    {
+      "name": "Men's Hats & Beanies",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-hats-beanies"
+    },
+    {
+      "name": "Men's Gloves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-gloves"
+    },
+    {
+      "name": "Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-deals"
+    },
+    {
+      "name": "Men's Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/mens-deals"
+    },
+    {
+      "name": "Women",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens"
+    },
+    {
+      "name": "Jackets & Coats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-jackets"
+    },
+    {
+      "name": "Down Jackets & Coats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-down-jackets"
+    },
+    {
+      "name": "Puffer Jackets & Vests",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-synthetic-padded-jackets-vests"
+    },
+    {
+      "name": "Rain Jackets & Raincoats",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-rain-snow-jacket"
+    },
+    {
+      "name": "Windbreaker Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-windbreaker-jackets"
+    },
+    {
+      "name": "Winter Jackets",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-winter-jackets"
+    },
+    {
+      "name": "Tops",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-tops"
+    },
+    {
+      "name": "Women's Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-shirts-1"
+    },
+    {
+      "name": "T-Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-shirts"
+    },
+    {
+      "name": "Long-sleeved Shirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-long-sleeved-t-shirts"
+    },
+    {
+      "name": "Women's Fleece & Mid Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-fleeces-mid-layers"
+    },
+    {
+      "name": "Bottoms",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-bottoms"
+    },
+    {
+      "name": "Pants & Leggings",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-pants-leggings"
+    },
+    {
+      "name": "Shorts & Skirts",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-shorts-skirts"
+    },
+    {
+      "name": "Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-base-layers"
+    },
+    {
+      "name": "Women's Merino Wool",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-merino-wool"
+    },
+    {
+      "name": "Women's Base Layers",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-base-layers"
+    },
+    {
+      "name": "Footwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-footwear"
+    },
+    {
+      "name": "Boots",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/hiking-womens-boots"
+    },
+    {
+      "name": "Shoes",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-hiking-shoes"
+    },
+    {
+      "name": "Socks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-socks"
+    },
+    {
+      "name": "Sandals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-sandals"
+    },
+    {
+      "name": "Hats & Gloves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-hat-beanies"
+    },
+    {
+      "name": "Women's Gloves",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-gloves"
+    },
+    {
+      "name": "Women's Hats & Beanies",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-hat-beanies"
+    },
+    {
+      "name": "Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-deals"
+    },
+    {
+      "name": "Women's Deals",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/womens-deals"
+    },
+    {
+      "name": "Kids",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/all-kids-outdoor-gear"
+    },
+    {
+      "name": "All Outdoor Gear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/all-kids-outdoor-gear"
+    },
+    {
+      "name": "All Outdoor Gear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/all-kids-outdoor-gear"
+    },
+    {
+      "name": "Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-backpacks"
+    },
+    {
+      "name": "Backpacks",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-backpacks"
+    },
+    {
+      "name": "Footwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-outdoor-footwear"
+    },
+    {
+      "name": "Footwear",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-outdoor-footwear"
+    },
+    {
+      "name": "Clothing",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-outdoor-clothing"
+    },
+    {
+      "name": "Clothing",
+      "productCount": null,
+      "url": "https://www.decathlon.com/collections/kids-outdoor-clothing"
+    }
+  ]
+}

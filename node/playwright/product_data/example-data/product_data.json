@@ -1,0 +1,204 @@
+{
+  "aggregateRating": {
+    "bestRating": 5,
+    "ratingValue": 4.6,
+    "reviewCount": 3005,
+    "worstRating": 1
+  },
+  "availability": "in_stock",
+  "brand": "Quechua",
+  "category": "Shoes",
+  "currency": "USD",
+  "description": "Provide comfort and protection for your feet, thanks to cushioning along the entire length of the sole, support for the high-top upper and a waterproof membrane to keep them dry.",
+  "features": [
+    "Traction: PU grip sole with 4 mm gripping spikes.",
+    "Waterproof: Waterproof and breathable membrane lining: your feet dry for 3h in all weather",
+    "Cushioning: Full-length cushioning thanks to its PU midsole.",
+    "Fit: High-top upper. Locking hooks to spread lacing between the foot and ankle",
+    "Lightweight: 395 g per boot in size 6"
+  ],
+  "images": [
+    {
+      "alt_text": "dark-petrol-blue-8397086",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568309.jpg?v=1716203002"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82709/k$4216ffd1e710ec62f8bdce62298b0592/82709_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b72382/k$c0d1bf3192cbdce762c6e473dd66e08c/72382_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82698/k$e855e947d37a845729785ce1c0fc166e/82698_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82708/k$b5ea44ef520f112685af7220e9725876/82708_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82702/k$1e99702adf878b91fd849aab68125127/82702_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568316.jpg?v=1700655686"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568427.jpg?v=1700655685"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568462.jpg?v=1716203007"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568482.jpg?v=1700655685"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568487.jpg?v=1700655685"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p2543226.jpg?v=1716290085"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p2579459.jpg?v=1712056170"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828508.jpg?v=1718881478"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828509.jpg?v=1718881485"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828512.jpg?v=1718881491"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828526.jpg?v=1718881496"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828532.jpg?v=1718881502"
+    }
+  ],
+  "name": "Quechua Women's MH100 Waterproof Mid Hiking Shoes",
+  "preDiscountPrice": 89.99,
+  "price": 40,
+  "productId": "1992730116158",
+  "reviews": [
+    {
+      "author": "Margaret, United States |",
+      "content": "Great hiking shoes, waterproof and comfortable for the entire day! Other hiking boots chafe at the ankles but these are so well constructed, my ankles are protected. They are easy to put on and take off.",
+      "date": "11 months ago",
+      "rating": 5,
+      "title": "Comfortable!"
+    },
+    {
+      "author": "Sebastien, United States |",
+      "content": "I wish I could post photos on this review, but my wife used the shoes 3 times only and they already show big wear and tear signs between the soles and the upper. These looks worse than Temu / Aliexpress shoes and have nothing to do with her old Quechuas that lasted 10 years.",
+      "date": "1 year ago",
+      "rating": 5,
+      "title": "Very, very disappointed with quality"
+    },
+    {
+      "author": "Martine, France |",
+      "content": "I&#39;m using these hiking shoes again, the ones I use in the mid-mountains for hikes of about 12 km. They suit me well because they support my ankles.",
+      "date": "Less than a month ago",
+      "rating": 5,
+      "title": "2nd purchase"
+    }
+  ],
+  "seller": {
+    "name": "Decathlon",
+    "rating": null,
+    "url": "https://www.decathlon.com"
+  },
+  "serialNumbers": [
+    {
+      "type": "SKU",
+      "value": "2353540"
+    },
+    {
+      "type": "GTIN",
+      "value": "3608439486722"
+    },
+    {
+      "type": "Other",
+      "value": "8397086"
+    }
+  ],
+  "specifications": [
+    {
+      "key": "Outer sole of",
+      "value": "50.0% Thermoplastic Polyurethane, 50.0% Polyurethane"
+    },
+    {
+      "key": "Upper of",
+      "value": "70.0% Polyester, 20.0% Leather - Bovine - Split, 10.0% Polyurethane"
+    },
+    {
+      "key": "Lining and sock of",
+      "value": "90.0% Polyester, 10.0% Polyamide"
+    },
+    {
+      "key": "What is your hiking frequency and intensity?",
+      "value": "We have classified our products in terms of performance and features for 3 levels of Mountain Walking:- occasional: about 10 hikes per year of about 3 to 4 hours in length, covering less than 10km and less than 700m in elevation gain.- Regular: about 20 outings per year. 4 to 6 hours, 10 to 20 km, 700 to 1200m of elevation gain per outing.- Intensive: more than 20 times a year. More than 6 hours, more than 20 km, 1200 to 2000m of elevation gain per outing."
+    },
+    {
+      "key": "Sole with grip",
+      "value": "The grip of our soles is certified. To be awarded certification, the boots must pass laboratory tests to assess the grip rate on different surfaces (Smooth, Rugged, Dry, Wet). To validate these tests, we assess the quality of our soles in the field, in the mountains, by a panel of representative testers over 500 kmWARNING: this model will needs a few kilometres of use before it reaches peak grip performance."
+    },
+    {
+      "key": "Waterproofing test",
+      "value": "In a laboratory, the shoe is immersed in water to mid-height on a mechanical arm that flexes to simulates a number of steps. With this test we can determine a time and number of km that the boot can walk while staying dry. Then we confirm in the field or under the rain, that the shoe meets its promises."
+    },
+    {
+      "key": "Making waterproofing last longer",
+      "value": "To keep your feet dry, we advise you to use a waterproof gaiter or mini-gaiter to protect the top of your boots and prevent water, pebbles and sand from getting in.We advise re-waterproofing your boots twice a year using a re-waterproofing agent (search for ‘waterproofing’ on our Decathlon website) which will help you restore the original water-repellent qualities and help prevent stains on the outside."
+    },
+    {
+      "key": "Which size should i select?",
+      "value": "The most important thing is to try on several sizes and styles of boots to find the one most suited to you! You can take a size above your usual one to prevent the toes from bumping into the toe box when going downhill, provided the foot is properly supported to avoid friction.Tip: keep your toenails short and, before a long descent, check that your lacing is tight enough to prevent your foot from sliding forwards inside the boot."
+    },
+    {
+      "key": "Buying tips / how do you try your boots on?",
+      "value": "Some Decathlon stores have a test route.  1. Try on both shoes, standing up, with the socks worn for hiking. 2. Tighten the laces, taking care to correctly balance the tightening.3. Check two points:- the heel does not come up before the shoe when you walk uphill.- the foot does not slide and the toes do not press against the front when going downhill.4. Try on several sizes and models.Break them in gradually to adapt them to your foot."
+    },
+    {
+      "key": "How do you avoid blisters?",
+      "value": "Blisters generally develop when the skin is weakened by friction. In order to prevent them from occurring, we recommend the following: - Choose a shoe in your size.- Wear suitable socks- Tie and tighten your shoes properly.- Make sure you tighten or loosen your laces accordingly while wearing your shoes, especially before starting a climb or a descent. - Wear your shoes on a short trip for the first use."
+    },
+    {
+      "key": "Which socks?",
+      "value": "A waterproof shoe will be less breathable than a non-waterproof shoe. Socks like the MH500, MH520 and MH900 with a high or medium upper (adapted to the height of the boot) are therefore preferable for wicking away perspiration and reducing friction."
+    },
+    {
+      "key": "Optimise the capabilities of your boots: replace your insoles!",
+      "value": "The original insole in your shoes is designed to accommodate most feet. A change of insole can bring:  1. Improved support: some soles are preformed or reinforced to better support the arch of the foot. 2. More comfort: the insoles can also provide heat and/or cushioning.3. Longer life: restore the support and comfort of your shoes by replacing the insole each season."
+    },
+    {
+      "key": "Product Testing",
+      "value": "All our boots are tested for initial comfort and comfort in use by hikers from outside Decathlon under the same conditions you find in use. The aim is to test, develop and confirm the product in the most objective way possible, so you can get maximum enjoyment out of hiking!"
+    },
+    {
+      "key": "Storage Instructions",
+      "value": "Store in a well-ventilated dark, dry place."
+    },
+    {
+      "key": "Origin",
+      "value": "Imported"
+    }
+  ],
+  "url": "https://www.decathlon.com/products/quechua-womens-mh100-waterproof-mid-hiking-shoes-133726-133727",
+  "videos": []
+}

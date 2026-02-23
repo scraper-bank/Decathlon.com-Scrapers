@@ -1,0 +1,255 @@
+{
+  "appliedFilters": [
+    "Remove all",
+    "Remove all"
+  ],
+  "bannerImage": "http://www.decathlon.com/cdn/shop/collections/24-App-Collections-05.jpg?v=1705589373",
+  "breadcrumbs": [
+    {
+      "name": "New Arrivals",
+      "url": "https://www.decathlon.com/collections/new-arrivals?collection=11000"
+    },
+    {
+      "name": "Hiking & Backpacking",
+      "url": "https://www.decathlon.com/collections/camp-hike?collection=12000"
+    },
+    {
+      "name": "Camping",
+      "url": "https://www.decathlon.com/collections/camp-ready-all-your-outdoor-essentials?collection=13000"
+    },
+    {
+      "name": "Snow & Ski",
+      "url": "https://www.decathlon.com/collections/snow-ski?collection=14000"
+    },
+    {
+      "name": "Running",
+      "url": "https://www.decathlon.com/collections/running?collection=15000"
+    },
+    {
+      "name": "Cycling",
+      "url": "https://www.decathlon.com/collections/bike?collection=16000"
+    },
+    {
+      "name": "Deals",
+      "url": "https://www.decathlon.com/collections/deals?collection=17000"
+    },
+    {
+      "name": "Jackets & Coats",
+      "url": "https://www.decathlon.com/collections/mens-jackets?collection=21000"
+    },
+    {
+      "name": "Tops",
+      "url": "https://www.decathlon.com/collections/mens-tops?collection=22000"
+    },
+    {
+      "name": "Bottoms",
+      "url": "https://www.decathlon.com/collections/mens-pants-shorts?collection=23000"
+    },
+    {
+      "name": "Base Layers",
+      "url": "https://www.decathlon.com/collections/mens-base-layers?collection=24000"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.decathlon.com/collections/mens-footwear?collection=25000"
+    },
+    {
+      "name": "Hats & Gloves",
+      "url": "https://www.decathlon.com/collections/mens-hats-beanies?collection=26000"
+    },
+    {
+      "name": "Deals",
+      "url": "https://www.decathlon.com/collections/mens-deals?collection=27000"
+    },
+    {
+      "name": "Jackets & Coats",
+      "url": "https://www.decathlon.com/collections/womens-jackets?collection=31000"
+    },
+    {
+      "name": "Tops",
+      "url": "https://www.decathlon.com/collections/womens-tops?collection=32000"
+    },
+    {
+      "name": "Bottoms",
+      "url": "https://www.decathlon.com/collections/womens-bottoms?collection=33000"
+    },
+    {
+      "name": "Base Layers",
+      "url": "https://www.decathlon.com/collections/womens-base-layers?collection=34000"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.decathlon.com/collections/womens-footwear?collection=35000"
+    },
+    {
+      "name": "Hats & Gloves",
+      "url": "https://www.decathlon.com/collections/womens-hat-beanies?collection=36000"
+    },
+    {
+      "name": "Deals",
+      "url": "https://www.decathlon.com/collections/womens-deals?collection=37000"
+    },
+    {
+      "name": "All Outdoor Gear",
+      "url": "https://www.decathlon.com/collections/all-kids-outdoor-gear?collection=41000"
+    },
+    {
+      "name": "Backpacks",
+      "url": "https://www.decathlon.com/collections/kids-backpacks?collection=42000"
+    },
+    {
+      "name": "Footwear",
+      "url": "https://www.decathlon.com/collections/kids-outdoor-footwear?collection=43000"
+    },
+    {
+      "name": "Clothing",
+      "url": "https://www.decathlon.com/collections/kids-outdoor-clothing?collection=44000"
+    }
+  ],
+  "categoryId": "00001",
+  "categoryName": "All",
+  "categoryUrl": "https://www.decathlon.com/collections/shop-all",
+  "description": "Shop our selection of laptop backpacks for men & women designed by Decathlon. Enjoy free U.S. standard shipping on orders over $49!",
+  "pagination": {
+    "currentPage": 1,
+    "nextPageUrl": null,
+    "prevPageUrl": null,
+    "resultsPerPage": null,
+    "totalPages": 1,
+    "totalResults": 5
+  },
+  "products": [
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8844302-product_image-p2629947.jpg?v=1709138155&width=533",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 16 L Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 44.99,
+      "productId": "",
+      "rating": 4.8,
+      "reviewCount": 3427,
+      "url": "https://www.decathlon.com/products/quechua-nh-escape-500-16-l-hiking-backpack-334520"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8920375-product_image-p2837411.jpg?v=1743786775&width=533",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 16L+4 Rolltop Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 49.99,
+      "productId": "",
+      "rating": 4.8,
+      "reviewCount": 523,
+      "url": "https://www.decathlon.com/products/quechua-escape-rolltop-16-l4-hiking-backpack-blue-358339"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8649339-product_image-p2204688.jpg?v=1714476034&width=533",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 23 L Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 54.99,
+      "productId": "",
+      "rating": 4.8,
+      "reviewCount": 6248,
+      "url": "https://www.decathlon.com/products/quechua-nh-escape-500-23l-hiking-backpack-334344"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8736382-product_image-p2183126.jpg?v=1718731497&width=533",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape Rolltop 23 L Backpack",
+      "preDiscountPrice": null,
+      "price": 59.99,
+      "productId": "",
+      "rating": 4.8,
+      "reviewCount": 1718,
+      "url": "https://www.decathlon.com/products/hiking-backpack-23l-nh-escape-500-rolltop-334561"
+    },
+    {
+      "availability": "in_stock",
+      "brand": "Quechua",
+      "currency": "USD",
+      "image": "https://www.decathlon.com/cdn/shop/files/8649351-product_image-p2192201.jpg?v=1714475988&width=533",
+      "isPrime": false,
+      "isSponsored": false,
+      "name": "Quechua NH500 Escape 32 L Hiking Backpack",
+      "preDiscountPrice": null,
+      "price": 69.99,
+      "productId": "",
+      "rating": 4.7,
+      "reviewCount": 3471,
+      "url": "https://www.decathlon.com/products/hiking-backpack-32l-nh-escape-500-334334"
+    }
+  ],
+  "subcategories": [
+    {
+      "name": "All",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Laptop Backpacks",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Daypacks",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Hiking Backpacks",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Backpacking Packs",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Travel Backpacks",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Duffel Bags",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Mountaineering Backpacks",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Backpack Accessories",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Men's Backpacks",
+      "productCount": null,
+      "url": ""
+    },
+    {
+      "name": "Women's Backpacks",
+      "productCount": null,
+      "url": ""
+    }
+  ]
+}

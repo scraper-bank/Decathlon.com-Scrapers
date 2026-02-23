@@ -1,0 +1,156 @@
+{
+  "aggregateRating": {
+    "bestRating": 5,
+    "ratingValue": 4.6,
+    "reviewCount": 3006,
+    "worstRating": 1
+  },
+  "availability": "in_stock",
+  "brand": "Quechua",
+  "category": "Shoes",
+  "currency": "USD",
+  "description": "Provide comfort and protection for your feet, thanks to cushioning along the entire length of the sole, support for the high-top upper and a waterproof membrane to keep them dry.",
+  "features": [
+    "PU grip sole with 4 mm gripping spikes.",
+    "Waterproof and breathable membrane lining: your feet dry for 3h in all weather",
+    "Full-length cushioning thanks to its PU midsole.",
+    "High-top upper. Locking hooks to spread lacing between the foot and ankle",
+    "395 g per boot in size 6"
+  ],
+  "images": [
+    {
+      "alt_text": "{*dark-petrol-blue-8397086*}",
+      "url": "https://cdn.shopify.com/s/files/1/0629/5411/1163/files/sg_default_logo.png?v=1662362897"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568309.jpg?v=1716203002&width=1920"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82709/k$4216ffd1e710ec62f8bdce62298b0592/82709_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b72382/k$c0d1bf3192cbdce762c6e473dd66e08c/72382_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82698/k$e855e947d37a845729785ce1c0fc166e/82698_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82708/k$b5ea44ef520f112685af7220e9725876/82708_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://contents.mediadecathlon.com/b82702/k$1e99702adf878b91fd849aab68125127/82702_default.png"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568316.jpg?v=1700655686"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568427.jpg?v=1700655685"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568462.jpg?v=1716203007"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568482.jpg?v=1700655685"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p1568487.jpg?v=1700655685"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p2543226.jpg?v=1716290085"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-product_image-p2579459.jpg?v=1712056170"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828508.jpg?v=1718881478"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828509.jpg?v=1718881485"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828512.jpg?v=1718881491"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828526.jpg?v=1718881496"
+    },
+    {
+      "alt_text": "",
+      "url": "https://www.decathlon.com/cdn/shop/files/8397086-context_image-p1828532.jpg?v=1718881502"
+    }
+  ],
+  "name": "Quechua Women's MH100 Waterproof Mid Hiking Shoes",
+  "preDiscountPrice": 89.99,
+  "price": 40,
+  "productId": "18458387906622",
+  "reviews": [
+    {
+      "author": "Margaret, United States",
+      "content": "Great hiking shoes, waterproof and comfortable for the entire day! Other hiking boots chafe at the ankles but these are so well constructed, my ankles are protected. They are easy to put on and take off.",
+      "date": "11 months ago",
+      "rating": 5,
+      "title": "Comfortable!"
+    },
+    {
+      "author": "Sebastien, United States",
+      "content": "I wish I could post photos on this review, but my wife used the shoes 3 times only and they already show big wear and tear signs between the soles and the upper. These looks worse than Temu / Aliexpress shoes and have nothing to do with her old Quechuas that lasted 10 years.",
+      "date": "1 year ago",
+      "rating": 5,
+      "title": "Very, very disappointed with quality"
+    },
+    {
+      "author": "Mamimy, Belgium",
+      "content": "Matches my description",
+      "date": "✓\n             Verified Buyer",
+      "rating": 5,
+      "title": "Ch mh100"
+    }
+  ],
+  "seller": {
+    "name": "Decathlon",
+    "rating": null,
+    "url": "https://www.decathlon.com"
+  },
+  "serialNumbers": [
+    {
+      "type": "GTIN",
+      "value": "3608439486722"
+    },
+    {
+      "type": "SKU",
+      "value": "2353540"
+    }
+  ],
+  "specifications": [
+    {
+      "key": "Outer sole of",
+      "value": "50.0% Thermoplastic Polyurethane, 50.0% Polyurethane"
+    },
+    {
+      "key": "Upper of",
+      "value": "70.0% Polyester, 20.0% Leather - Bovine - Split, 10.0% Polyurethane"
+    },
+    {
+      "key": "Lining and sock of",
+      "value": "90.0% Polyester, 10.0% Polyamide"
+    }
+  ],
+  "url": "https://www.decathlon.com/products/quechua-womens-mh100-waterproof-mid-hiking-shoes-133726-133727",
+  "videos": null
+}

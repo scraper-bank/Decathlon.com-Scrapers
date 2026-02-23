@@ -1,0 +1,368 @@
+{
+  "breadcrumbs": null,
+  "pagination": {
+    "currentPage": 1,
+    "hasNextPage": false,
+    "hasPreviousPage": false,
+    "nextPageUrl": null,
+    "previousPageUrl": null,
+    "totalPages": 1
+  },
+  "products": [
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 2572,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": null,
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Quechua Kids’ NH100 Velcro Hiking Shoes",
+          "url": "https://www.decathlon.com/cdn/shop/files/CHAUSSURESKIDGARCONMH100PE24-8853302-001---Expireson22-09-2033.jpg?v=1745434978"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Velcro Hiking Shoes",
+      "preDiscountPrice": null,
+      "price": 24.99,
+      "productId": "7781036523582",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-kids-velcro-hiking-shoes-nh100-black-24-to-34-313049?_pos=1&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/files/CHAUSSURESKIDGARCONMH100PE24-8853302-001---Expireson22-09-2033.jpg?v=1745434978",
+            "type": "color",
+            "value": "Smoked Black"
+          }
+        ]
+      },
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 1239,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": [
+        {
+          "label": "Save 39%",
+          "type": "deal"
+        }
+      ],
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*strawberry-pink-8576133*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8576133-product_image-p1869861.jpg?v=1745451152"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Velcro Hiking Shoes",
+      "preDiscountPrice": 22.99,
+      "price": 14,
+      "productId": "4746959355966",
+      "promotions": [
+        {
+          "description": "Save 39%",
+          "discountPercentage": 39,
+          "type": "discount"
+        }
+      ],
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-mh100-low-rip-tab-hiking-boots-kids-size-11c-to-3-313072?_pos=2&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/files/8576133-product_image-p1869861.jpg?v=1745451152",
+            "type": "color",
+            "value": "Strawberry Pink"
+          }
+        ]
+      },
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 739,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": [
+        {
+          "label": "Save 39%",
+          "type": "deal"
+        }
+      ],
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*navy-blue-8600278*}",
+          "url": "https://www.decathlon.com/cdn/shop/products/8600278-product_image-1869856.jpg?v=1745451797"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Lace-Up Hiking Shoes",
+      "preDiscountPrice": 22.99,
+      "price": 14,
+      "productId": "4740038033470",
+      "promotions": [
+        {
+          "description": "Save 39%",
+          "discountPercentage": 39,
+          "type": "discount"
+        }
+      ],
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-mh100-low-hiking-boots-kids-313073?_pos=3&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/products/8600278-product_image-1869856.jpg?v=1745451797",
+            "type": "color",
+            "value": "Steel Blue"
+          }
+        ]
+      },
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.7,
+        "reviewCount": 240,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": [
+        {
+          "label": "Save 29%",
+          "type": "deal"
+        }
+      ],
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*smoked-black-8740035*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8740035-product_image-p2904732.jpg?v=1759159682"
+        }
+      ],
+      "name": "Quechua Kids' NH100 Warm Waterproof Snow Boots",
+      "preDiscountPrice": 39.99,
+      "price": 28,
+      "productId": "7840665206846",
+      "promotions": [
+        {
+          "description": "Save 29%",
+          "discountPercentage": 29,
+          "type": "discount"
+        }
+      ],
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-kids-snow-boots-uk-sizes-jnr-7-45-sh100-warm-black-339525-fw25?_pos=4&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/files/8740035-product_image-p2904732.jpg?v=1759159682",
+            "type": "color",
+            "value": "Smoked Black"
+          }
+        ]
+      },
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.7,
+        "reviewCount": 1438,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": null,
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*smoked-black-8853305*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8853305-product_image-p2578640.jpg?v=1745361262"
+        }
+      ],
+      "name": "Quechua Kids’ NH100 Lace-Up Hiking Shoes",
+      "preDiscountPrice": null,
+      "price": 22.99,
+      "productId": "7784044298302",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-childrens-lace-up-hiking-boots-nh100-black-35-38-313055?_pos=5&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/files/8853305-product_image-p2578640.jpg?v=1745361262",
+            "type": "color",
+            "value": "Smoked Black"
+          }
+        ]
+      },
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.7,
+        "reviewCount": 170,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": null,
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*verdigris-8881169*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8881169-product_image-p2823567.jpg?v=1746484229"
+        }
+      ],
+      "name": "Quechua Kids’ Hike 500 Crew Hiking Socks 2-Pack",
+      "preDiscountPrice": null,
+      "price": 14.99,
+      "productId": "7789682655294",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-junior-high-hiking-socks-hike-500-green-354180?_pos=6&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/files/8881169-product_image-p2823567.jpg?v=1746484229",
+            "type": "color",
+            "value": "Verdigris"
+          }
+        ]
+      },
+      "videos": []
+    },
+    {
+      "aggregateRating": {
+        "bestRating": 5,
+        "ratingValue": 4.8,
+        "reviewCount": 139,
+        "worstRating": 1
+      },
+      "availability": "in_stock",
+      "badges": null,
+      "brand": "Quechua",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "{*pale-gray-8881152*}",
+          "url": "https://www.decathlon.com/cdn/shop/files/8881152-product_image-p2823553.jpg?v=1749836113"
+        }
+      ],
+      "name": "Quechua Kids' Hike 100 Hiking Socks 2-Pack",
+      "preDiscountPrice": null,
+      "price": 9.99,
+      "productId": "7809821704254",
+      "reviews": [],
+      "seller": {
+        "name": "Decathlon",
+        "rating": 0,
+        "url": "https://www.decathlon.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://www.decathlon.com/products/quechua-junior-hiking-socks-hike-100-grey-354170?_pos=7&_sid=846182208&_ss=r",
+      "variants": {
+        "variantCount": 1,
+        "visibleOptions": [
+          {
+            "imageUrl": "https://www.decathlon.com/cdn/shop/files/8881152-product_image-p2823553.jpg?v=1749836113",
+            "type": "color",
+            "value": "Pale Gray"
+          }
+        ]
+      },
+      "videos": []
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": []
+  },
+  "relatedSearches": [],
+  "searchMetadata": {
+    "query": "kids shoes",
+    "resultsDisplayed": 7,
+    "searchType": "keyword",
+    "searchUrl": "https://www.decathlon.com/search?q=kids+shoes&options%5Bprefix%5D=last",
+    "totalResults": 7
+  }
+}
